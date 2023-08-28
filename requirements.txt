@@ -2,3 +2,8 @@ numpy
 pandas
 opencv-python
 tensorflow
+kor
+langchain
+openai
+llama-index
+llama-hub
