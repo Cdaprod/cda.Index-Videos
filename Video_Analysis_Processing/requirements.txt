@@ -1,0 +1,6 @@
+langflow
+langchain
+moviepy
+python-opencv
+numpy
+flask
