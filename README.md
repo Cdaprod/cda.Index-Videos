@@ -2,8 +2,6 @@ Excuse the messy repo! This started out of necessity and evolved over time.
 
 I will clean it up as soon as possible and release package with docker container image for local deployments. 
 
-![](/public/VideoArchive.png)
-
 # Index-Videos
 
 ## Got loose videos somewhere? Find them!
@@ -62,7 +60,7 @@ graph TD;
 
 ---
 
-Certainly! Below is a full-length README.md for your repository named `cda.Index-Videos`. This README includes sections on the project's purpose, how to set it up, how to use it, and other important details.
+![](/public/VideoArchive.png)
 
 ---
 
