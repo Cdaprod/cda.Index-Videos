@@ -16,10 +16,10 @@ logging.basicConfig(filename='flask_serve_videos_api.log', level=logging.DEBUG)
 def create_supabase_conn():
     logging.info('Supabase connection created.')
     conn = psycopg2.connect(
-        dbname="postgres",
-        user="postgres",
-        password="qW2UmgNBRlNnypwv",
-        host="db.wkunyeizmhjqchstgpmy.supabase.co",
+        dbname="",
+        user="",
+        password="",
+        host="",
         port="5432"
     )
     return supabase_conn
