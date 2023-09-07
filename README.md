@@ -1,10 +1,12 @@
+![](/public/VideoArchive.png)
+
 # Index-Videos
 
 ## Got loose videos somewhere? Find them!
 
-### Index a drive from anywhere… from the command-line to the cloud!!
+## Index a drive from anywhere… from the command-line to the cloud!!
 
-![Diagram](/public/photo.png)
+![](/public/photo.png)
 
 ## What Does This Do?
 
