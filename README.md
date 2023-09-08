@@ -1,10 +1,14 @@
+Excuse the messy repo! This started out of necessity and evolved over time.
+
+I will clean it up as soon as possible and release package with docker container image for local deployments. 
+
 # Index-Videos
 
 ## Got loose videos somewhere? Find them!
 
-### Index a drive from anywhere… from the command-line to the cloud!!
+## Index a drive from anywhere… from the command-line to the cloud!!
 
-![Diagram](/public/photo.png)
+![](/public/VideoArchive.png)
 
 ## What Does This Do?
 
@@ -56,7 +60,7 @@ graph TD;
 
 ---
 
-Certainly! Below is a full-length README.md for your repository named `cda.Index-Videos`. This README includes sections on the project's purpose, how to set it up, how to use it, and other important details.
+![](/public/photo.png)
 
 ---
 
